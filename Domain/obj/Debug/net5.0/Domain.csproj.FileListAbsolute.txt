@@ -1,0 +1,75 @@
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\azakarneh\Downloads\BookLibrary\BookLibrary\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary (1)\BookLibrary\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPI\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\TKmail\Downloads\BookLibrary\BookLibraryAPICRM\Domain\obj\Debug\net5.0\Domain.pdb

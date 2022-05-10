@@ -43,7 +43,7 @@ namespace Domain.Manager
             }
             return null;
         }
-
+        //Comment
         public List<AdminModel> GetAll()
         {
             return _mapper.Map<List<AdminModel>>(_adminRepository.GetAll());
